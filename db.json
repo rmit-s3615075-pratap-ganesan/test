@@ -1,0 +1,70 @@
+{
+    "data": [
+		{
+			"type": "folder",
+			"id": "fo11",
+			"name": "Folder one",
+			"description": "",
+			"data": [
+				{
+					"type": "folder",
+					"id": "subfol11",
+					"name": "Documents",
+					"description": ""
+				},
+				{
+					"type": "folder",
+					"id": "subfol12",
+					"name": "Documents",
+					"description": ""
+				}
+			]
+		},
+		{
+			"type": "folder",
+			"id": "fol2",
+			"name": "Documents",
+			"description": ""
+		},
+		{
+			"type": "folder",
+			"id": "fol3",
+			"name": "Testing",
+			"description": ""
+		},
+		{
+			"type": "folder",
+			"id": "fol4",
+			"name": "Requirement gathering",
+			"description": "",
+			"data": [
+				{
+					"type": "subfol41",
+					"id": "123e",
+					"name": "document failure",
+					"description": ""
+				},
+				{
+					"type": "subfol42",
+					"id": "123e",
+					"name": "document failure",
+					"description": "",
+					"data": [
+						{
+							"type": "greatsubfol421",
+							"id": "123e",
+							"name": "document failure",
+							"description": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "folder",
+			"id": "123e",
+			"name": "document failure",
+			"description": ""
+		}
+	]
+}
